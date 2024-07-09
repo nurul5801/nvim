@@ -2,15 +2,15 @@
 
 This repository contains a setup script to configure Neovim on Ubuntu. The setup includes installing Neovim, setting up a basic configuration, and installing plugins using Lazy and Mason.
 ## Screenshots
-    ### Dashboards(alpha)
+### Dashboards(alpha)
 ![Dashboard](img/dashboard.png)
-    ### File Explorer(Treesitter)
+### File Explorer(Treesitter)
 ![File Explorer](img/fileex.png)
-    ### Language Server
+### Language Server
 ![Language Server](img/lsp.png)
-    ### Code Action
+### Code Action
 ![Code Action](img/codeaction.png)
-    ### File Finder (telescope) 
+### File Finder (telescope) 
 ![File Finder](img/ff.png)
     
 
