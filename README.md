@@ -18,7 +18,16 @@ This repository contains a setup script to configure Neovim on Ubuntu. The setup
 
 - Ubuntu (or any Debian-based distribution)
 - `git` installed
-
+-Neovim installed(version>=0.9.0)
+### For Ubuntu 
+**Using Snap**
+  ```bash
+  sudo snap install --beta nvim --classic
+  ```
+**Using APT**
+  ```bash
+  sudo apt-get install neovim
+  ```
 ## Installation
 
 1. **Clone the repository:**
