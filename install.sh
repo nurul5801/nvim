@@ -6,5 +6,5 @@ export PATH="$PATH:/opt/nvim-linux64/bin"
 sudo apt-get install ripgrep
 sudo apt install node
 rm -rf $HOME/.config/nvim
-mv nvim $HOME/.config/
+cd .. && mv nvim $HOME/.config/
 nvim
