@@ -2,6 +2,7 @@
     "diagnostics.globals": [
         "vim",
         "extensions",
-        "require"
+        "require",
+        "filetype"
     ]
 }
