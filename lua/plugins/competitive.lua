@@ -124,7 +124,7 @@ return {
       received_problems_path = "$(HOME)/Competitive Programming/$(JUDGE)/$(CONTEST)/$(PROBLEM).$(FEXT)",
       received_problems_prompt_path = true,
       -- received_contests_directory = "$(CWD)",
-      received_contests_directory = "$(HOME)/Competitive Programming/$(JUDGE)/$(CONTEST)", -- received_contests_problems_path = "$(PROBLEM).$(FEXT)",
+      received_contests_directory = "$(HOME)/Competitive_Programming/$(JUDGE)/$(CONTEST)", -- received_contests_problems_path = "$(PROBLEM).$(FEXT)",
       received_contests_problems_path = "$(PROBLEM)/main.$(FEXT)",
       received_contests_prompt_directory = true,
       received_contests_prompt_extension = true,
